@@ -1,0 +1,13 @@
+ul li:nth-child(odd) {
+    font-weight: bold;
+  }
+
+  div.wrapper {
+    background-color: #BADA55; 
+    width: 80%; 
+    margin: 0 auto;
+  }
+
+  * :not(p) {
+    color: #333;
+  }
